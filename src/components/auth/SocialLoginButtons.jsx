@@ -3,7 +3,7 @@ import { SiApple, SiFacebook } from "react-icons/si";
 
 const socialProviders = [
   {
-    name: "Google",
+    name: "google",
     icon: <FcGoogle className="text-2xl" />,
     textColor: "text-black",
   },
